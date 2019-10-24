@@ -1,7 +1,6 @@
 language: java
-jdk: oraclejdk13
+#jdk: oraclejdk13
 install: ant deps
-script: 
-
-	-ant test
-	-ant build
+#script: 
+# -ant test
+# -ant build
