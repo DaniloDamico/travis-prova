@@ -1,8 +1,0 @@
-class HelloWorld{
-
-	public static void main(String args[]){
-	
-		Sytem.out.printl("Hello, World");
-	}
-
-}
