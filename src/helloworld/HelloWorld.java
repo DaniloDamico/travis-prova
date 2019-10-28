@@ -1,3 +1,4 @@
+package helloworld;
 import java.util.logging.Logger;
 
 class HelloWorld{
