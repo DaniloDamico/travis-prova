@@ -5,7 +5,7 @@ addons:
  sonarcloud:
   organization: "danilodamico"
   token:
-   secure: travis encrypt 2cb5bed57a6a653a1c6801217faff71ea6563a55
+   secure: "2cb5bed57a6a653a1c6801217faff71ea6563a55"
 
 script:
  - ant build
